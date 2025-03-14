@@ -29,22 +29,22 @@ const SocialLink = ({ href, icon: Icon, label }) => {
 const Footer = () => {
     const socialLinks = [
         {
-            href: 'https://github.com/prarthanp',
+            href: 'https://github.com/Prarthan23',
             icon: FaGithub,
             label: 'GitHub'
         },
         {
-            href: 'https://linkedin.com/in/prarthan-parmar',
+            href: 'https://www.linkedin.com/in/prarthan23/',
             icon: FaLinkedin,
             label: 'LinkedIn'
         },
         {
-            href: 'https://twitter.com/prarthanp',
+            href: 'https://wa.me/+918155849212',
             icon: FaWhatsapp,
-            label: 'Twitter'
+            label: 'whatsapp'
         },
         {
-            href: 'https://instagram.com/prarthanp',
+            href: 'https://www.instagram.com/_prarthan_23/?igsh=MXUxdm04YzB4empjdA%3D%3D#',
             icon: FaInstagram,
             label: 'Instagram'
         }
