@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Rockybilly Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/Fonts/rockybilly.regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Firlest Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/Fonts/firlest.regular.ttf) format('truetype');
+}
+
