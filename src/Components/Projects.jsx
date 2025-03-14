@@ -95,7 +95,7 @@ const Projects = () => {
             description: 'A visually appealing and fully responsive Food Website built to showcase all products from OGB India specializing in Bratwurst. Designed for a seamless browsing experience, the platform features high-quality product displays, detailed descriptions, and an intuitive navigation system. With optimized search and filtering options, customers can easily explore and purchase authentic bratwurst varieties.',
             technologies: ['React', 'Framer-Motion', 'Tailwind CSS'],
             imageUrl: image2,
-            demoUrl: 'https://taskapp-demo.com',
+            demoUrl: 'https://akassociates.co/',
            
         },
         // Add more projects as needed
